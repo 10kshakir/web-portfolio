@@ -1,0 +1,31 @@
+body {
+   
+    font-family: 'Roboto', sans-serif;
+     margin: 0%;
+   
+
+}
+h1{
+    font-size: 50px;
+    font-family: 'Fruktur', cursive;
+}
+
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+#peter-parker{
+    background-image: url("images/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+
+    
+}
