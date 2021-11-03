@@ -28,6 +28,7 @@ section{
 }
 .half-width img{
     width: 100%;
+    
    
 }
 #peter-parker{
@@ -36,6 +37,9 @@ section{
     background-repeat: no-repeat;
 
     
+}
+#p-image{
+    margin-top: 60px;
 }
 .link-button{
     text-decoration: none;
