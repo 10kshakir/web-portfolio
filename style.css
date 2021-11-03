@@ -6,14 +6,17 @@ body {
 
 }
 h1{
-    font-size: 50px;
+    font-size: 55px;
     font-family: 'Fruktur', cursive;
+}
+h2{
+    font-size: 40px;
 }
 section{
  padding-bottom: 70px;
 }
 
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -50,7 +53,41 @@ p{
     background-image: url("images/dream-bg.png");
     background-position: right;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 450px;
     
     
 }
+.center{
+    text-align: center;
+}
+
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 7%;
+    height: 400px;
+}
+.single-expo-area{
+    height: 250px;
+    box-shadow: 10px 10px 60px dimgray;
+    border-radius: 6px;
+}
+#full-stack{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+
+}
+#baby-web{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,royalblue,cyan);
+    border-image-slice: 1;
+    
+}
+footer p{
+
+    text-align: center;
+}
+
+
